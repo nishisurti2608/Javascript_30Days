@@ -26,7 +26,9 @@ const myObject = {
     level : "Noob"
 }
 
-const myArray = ["I", "am" , "just", "a", "noob", "in", "JavaScript"]
+const myArray = ["I", "am" , "just", "a", "noob", "in", "JavaScript"] 
+
+// data type of an array is Object ! Everything is an object in JS
 
 console.table([typeof(myNumber), typeof(myString), typeof(myBoolean), typeof(myObject), typeof(myArray)])
 
